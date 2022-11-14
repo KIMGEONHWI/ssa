@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ssa</string>
+    <string-array name="my_array">
+        <item>계약</item>
+        <item>월세</item>
+        <item>전세</item>
+        <item>매매</item>
+        <item>전월세</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name2">ssa</string>
+    <string-array name="my_array2">
+        <item>금액</item>
+        <item>~40</item>
+        <item>40~50</item>
+        <item>50~60</item>
+        <item>60~</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name3">ssa</string>
+    <string-array name="my_array3">
+        <item>상태</item>
+        <item>거래중</item>
+        <item>거래완료</item>
+    </string-array>
+</resources>
